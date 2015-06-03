@@ -10,15 +10,15 @@ public class Messages {
 	public static final ChatColor BLUE = ChatColor.BLUE;
 	public static final ChatColor WHITE = ChatColor.WHITE;
 	
-	public static final String prefix = "[" + GREEN + "Sound" 
-										+ BLUE + "Center" + WHITE + "] ";
+	public static final String prefix = "[" + GREEN + "DGN" 
+										+ BLUE + "AudioCenter" + WHITE + "] ";
 	
 	
 	public static final String INFO_START_AUDIOCLIENT_PT1 = prefix + GREEN 
-													+ "Vist " + BLUE + ChatColor.UNDERLINE ;
-	public static final String INFO_START_AUDIOCLIENT_PT2 =  "" + ChatColor.RESET + GREEN + " to use ingame-music and voice chat.";
-	public static final String INFO_INIT_SUCCESS = prefix + GREEN + "AudioClient initialized!";
-	public static final String INFO_USERS = prefix + GREEN + "Players using SoundCenter: ";
+													+ "Bezoek " + BLUE + ChatColor.UNDERLINE ;
+	public static final String INFO_START_AUDIOCLIENT_PT2 =  "" + ChatColor.RESET + GREEN + " Om onze audioclient te gebruiken.";
+	public static final String INFO_INIT_SUCCESS = prefix + GREEN + "AudioClient is gevonden!";
+	public static final String INFO_USERS = prefix + GREEN + "Spelers die audioclient gebruiken: ";
 	public static final String INFO_USER_MUTED = prefix + GREEN + "Muted user: ";
 	public static final String INFO_USER_UNMUTED = prefix + GREEN + "Unmuted user: ";
 	public static final String INFO_MUSIC_MUTED = prefix + GREEN + "Music muted!";
